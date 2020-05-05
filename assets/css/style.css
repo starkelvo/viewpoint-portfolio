@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #7b909a;
   padding: 10px 15px;
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 20px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
   content: "\eaa0";
   font-family: IcoFont;
   position: absolute;
-  right: 15px;
+  right: 20px;
 }
 
 @media (max-width: 1366px) {
@@ -519,7 +519,7 @@ section {
 }
 
 .features .nav-link p {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
