@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #444444;
   
 }
@@ -1639,4 +1639,8 @@ section {
   text-align: center;
   font-size: 13px;
   color: #364146;
+}
+
+.col-lg-12 d-flex justify-content-center{
+  border-radius: 1px blue;
 }
